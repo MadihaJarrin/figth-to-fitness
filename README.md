@@ -1,6 +1,6 @@
 # Fight to Fitness Martial Art Studio
 
-Live Site link:  [Create React App](https://github.com/facebook/create-react-app)
+Live Site link:  [(https://fight-to-fitness.netlify.app/)]
 
 ## purpose of Fight to Fitness
 

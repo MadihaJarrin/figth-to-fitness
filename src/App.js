@@ -7,18 +7,19 @@ import Home from './Components/Home/Home';
 import About from './Components/About/About';
 import Services from './Components/Services/Services';
 import Pricing from './Components/Pricing/Pricing';
-
-
+import NotFound from './Components/NotFound/NotFound';
 
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
-
         <Header></Header>
         <Switch>
           <Route path="/home">
+            <Home></Home>
+          </Route>
+          <Route exact path="/">
             <Home></Home>
           </Route>
           <Route path="/services">
@@ -31,8 +32,10 @@ function App() {
             <Pricing></Pricing>
           </Route>
 
+          <Route exact path="*">
+            <NotFound></NotFound>
+          </Route>
         </Switch>
-
         <Footer></Footer>
       </BrowserRouter>
 

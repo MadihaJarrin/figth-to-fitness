@@ -15,18 +15,19 @@ const Home = () => {
     }
         , []);
     return (
-        <div>
+        <div className="home-part">
             {/* <h1>Caragory:{courses.length}</h1> */}
+
+            <div className="header-work">
+                <h1 >Our Work</h1>
+                <h5 >Over 1600 martial arts studios and gyms have chosen Sitefit for website design and digital marketing!</h5>
+            </div>
             <div className="body">
-                <div>
-                    <h1>Our Work</h1>
-                    <h5>Over 1600 martial arts studios and gyms have chosen Sitefit for website design and digital marketing!</h5>
-                </div>
                 <div className="course-list">
                     {
 
-                        courses.map(course => <Course course={course}
-
+                        courses.slice(0, 4).map(course => <Course course={course}
+                            key={course.key}
                         ></Course>)
 
                     }

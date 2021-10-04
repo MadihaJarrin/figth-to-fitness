@@ -6,11 +6,11 @@ const Course = (props) => {
     console.log(props.course);
     return (
         <div className="details-container">
-            <div className="card">
+            <div className="card1">
 
                 <img src={img} alt="" />
 
-                <div className="card-body">
+                <div className="body">
                     <h4>Martial art :{name}</h4>
                     <h5>Course Duration: {duration}</h5>
                     <h5>Course Fee : ${cost}</h5>
