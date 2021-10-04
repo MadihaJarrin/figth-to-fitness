@@ -4,7 +4,16 @@
 .header-work{
     background-color: lightsalmon;
     padding-top: 30px; 
+
 }
 .home-part{
     background-color: lightsalmon;
+}
+.header-work h1{
+    text-shadow: 5px 5px 10px rgb(131, 3, 3);
+    color: lightskyblue;
+}
+.header-work h5{
+    text-shadow: 5px 5px 10px rgb(44, 3, 3);
+    color: white;
 }
