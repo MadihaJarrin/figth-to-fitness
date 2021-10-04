@@ -7,16 +7,13 @@ const Course = (props) => {
     return (
         <div className="details-container">
             <div className="card1">
-
                 <img src={img} alt="" />
-
                 <div className="body">
                     <h4>Martial art :{name}</h4>
                     <h5>Course Duration: {duration}</h5>
                     <h5>Course Fee : ${cost}</h5>
                     <p>Adress : {adress}</p>
                     <p>Details: {details}</p>
-
                 </div>
             </div>
         </div>

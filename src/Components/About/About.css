@@ -8,7 +8,6 @@
 	overflow: hidden;
     background-color:rgb(23, 163, 163);
     border-radius: 50px;
-    
 }
 .container .box .imgBx
 {
@@ -90,7 +89,10 @@
 .container{
     display: grid;
     grid-template-columns: repeat(3, 2fr);
-    /* background-color: lightsalmon; */
+	padding-left: 50px;
+	padding-right: 2px;
+	padding-top: 20px;
+	padding-bottom: 20px;
     
 }
 .contact{
