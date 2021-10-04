@@ -4,11 +4,11 @@ import './Pricing.css'
 
 const Pricing = () => {
     return (
-        <div>
+        <div className="pricing-container">
 
-            <p style={{ marginTop: "20px" }}>One of the most common questions people ask when calling a martial arts school is:</p>
-            <h1 style={{ color: "red" }}>“HOW MUCH DO MARTIAL ARTS CLASSES COST?”</h1>
-            <h6>Any time one is considering a new venture, the cost is certainly an important consideration.  But, it is important to recognize that martial arts training is more than a commodity to be selected based on price alone. </h6>
+            <p style={{ marginTop: "20px", padding: "20px" }}>One of the most common questions people ask when calling a martial arts school is:</p>
+            <h1 style={{ color: "red", backgroundColor: "lightyellow", padding: "20px", borderRadius: "100px" }}>“HOW MUCH DO MARTIAL ARTS CLASSES COST?”</h1>
+            <h6 style={{ width: "80%", marginLeft: "60px", padding: "20px" }}>Any time one is considering a new venture, the cost is certainly an important consideration.  But, it is important to recognize that martial arts training is more than a commodity to be selected based on price alone. </h6>
 
 
             <div className="pricing-card">

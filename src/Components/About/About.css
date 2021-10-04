@@ -91,4 +91,13 @@
     display: grid;
     grid-template-columns: repeat(3, 2fr);
     /* background-color: lightsalmon; */
+    
+}
+.contact{
+    color: white;
+
+}
+.content a{
+    text-decoration: none;
+    margin-left: 30px;
 }

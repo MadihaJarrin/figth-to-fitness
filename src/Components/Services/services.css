@@ -1,10 +1,11 @@
 .service {
-    background-color: lightslategray;
+    background-color: rgb(166, 199, 233);
     color:white;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding: 10px;
+    /* background-color: lightsalmon; */
 }
 .services{
-    /* background-color: lightsalmon; */
+    background-color: lightsalmon;
 }

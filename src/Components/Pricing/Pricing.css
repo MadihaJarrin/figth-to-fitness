@@ -1,9 +1,9 @@
 .pricing-card{
     display: grid;
     grid-template-columns: repeat(2, 2fr);
-     margin: auto;
-    padding: 20px;
-    /* background-color: rgb(169, 221, 238);  */
+    padding: 30px;
+    margin-left: 50px;
+    color: black;
 }
 .pricing-card img{
     height: 300px;
@@ -12,4 +12,8 @@
 }
 .image{
 
+}
+.pricing-container{
+    background-color: lightsalmon;
+    color: white;
 }

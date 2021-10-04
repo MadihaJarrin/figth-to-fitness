@@ -8,7 +8,7 @@ import './About.css'
 
 const About = () => {
     return (
-        <div className="container">
+        <div className="container" style={{ backgroundColor: "lightsalmon" }} >
             <div className="box">
                 <div className="imgBx">
                     <img src={institute} alt="" />
@@ -46,18 +46,15 @@ const About = () => {
                 </div>
             </div>
             <div>
-
             </div>
-
-            <div>
+            <div className="contact">
                 <h3>Contact</h3>
-                <p> <a href="#">website</a></p>
-                <p><a href="#">facebook</a></p>
+                <p>
+                    <a href="#">website</a>
+                    <a href="#">facebook</a>
+                </p>
             </div>
         </div>
-
-
-
     );
 };
 

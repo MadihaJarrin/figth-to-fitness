@@ -55,21 +55,16 @@ const Services = () => {
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
-
-
-            <div className="body">
+            <div className="body" style={{ margin: "20px" }}>
 
                 <div className="course-list">
                     {
-
                         courses.map(course => <Course course={course}
 
                         ></Course>)
-
                     }
                 </div>
             </div>
-
         </div>
 
     );
