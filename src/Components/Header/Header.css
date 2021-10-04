@@ -1,0 +1,30 @@
+.img-container{
+    background-color: blueviolet;
+    color: white;
+}
+.img-container img{
+    height: 460px;
+}
+.nav {
+    color:white;
+    text-decoration: none;
+    margin: 0 30px;
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    left: 100px;
+    
+}
+
+.header-details{
+    padding-top: 50px;
+}
+span{
+    color: rgb(241, 179, 21);
+    font-size: 100px;
+
+}
+#fitness{
+    margin-left: 300px;
+ padding: 10px;
+}

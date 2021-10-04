@@ -1,0 +1,80 @@
+[
+    {
+        "key": 1001,
+        "name": "KunkFu-China",
+        "img": "https://thumbs.dreamstime.com/b/woman-kung-fu-pencak-silat-isolated-one-caucasian-women-practicing-martial-arts-studio-white-background-101618091.jpg",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 10000,
+        "details": "There are many different styles of Chinese martial arts and Kung Fu has been adopted as an umbrella term for all of these forms, some ancient and some more modern. It’s a popular style of martial art that has gained notoriety through film and television, where some famous practitioners include Jackie Chan."
+    },
+    {
+        "key": 1002,
+        "name": "Judo-Japan",
+        "img": "https://media.istockphoto.com/photos/judokas-fighters-fighting-men-silhouette-picture-id510565699?k=20&m=510565699&s=612x612&w=0&h=EMMWgnylRPw2LocDCfUtiCB6zQVV0N-sdu6Y8zYwfcA=",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 8000,
+        "details": "Judo is one of the more modern forms of martial arts, which means it has therefore been influenced by other forms that have come before it. It is a popular competitive sport in Australia and worldwide that demands both great mental discipline as well as physical prowess in order to overcome an opponent."
+    },
+    {
+        "key": 1003,
+        "name": "Muay Thai – Thailand",
+        "img": "https://img.freepik.com/fotos-gratis/dois-pugilistas-tailandeses-exercicio-tradicional-arte-marcial-isolado-no-fundo-branco_45996-904.jpg?size=626&ext=jpg",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 1000,
+        "details": "Hailed as the national sport and cultural martial art of Thailand, Muay Thai (aka Thai Boxing) dates back to the 13th century and was developed as a form of close-combat. It is a full-contact sport that requires fighters to defeat their opponents by utilising kicking, cinching and hitting techniques as well as an element of grappling, where striking your opponent requires strong physical and mental discipline."
+    },
+    {
+        "key": 1004,
+        "name": "Aikido – Japan",
+        "img": "https://media.istockphoto.com/photos/two-men-in-kimonos-with-black-belt-fighting-picture-id1167848784?k=20&m=1167848784&s=612x612&w=0&h=sOOHUlcIffVdBI0fFeXCx2mCN1xSIYuMZ2v-mhEAm_s=",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 8000,
+        "details": "Developed and created in Japan in the early 1900s, participants are taught how to utilise the strength and energy of the attacker against them in combat, where one can disarm their opponent but not cause them serious injury. This makes Aikido another great option for self-defence."
+    },
+    {
+        "key": 1005,
+        "name": "Krav Maga – Israel",
+        "img": "https://thumbs.dreamstime.com/b/men-krav-maga-fighters-fighting-isolated-two-caucasian-silhouette-white-background-68632927.jpg",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 8000,
+        "details": "Meaning “contact combat” in Hebrew, Krav Maga is Israel’s national martial art. It borrows features from various other forms including grappling and ground fighting from Jujutsu, traditional boxing punches, and kicks and knee techniques from Karate. "
+    },
+    {
+        "key": 1006,
+        "name": "Brazilian Jiu-Jitsu",
+        "img": "http://st.depositphotos.com/1424709/3014/i/450/depositphotos_30148121-Young-children-in-kimono-perform-techniques-karate-on-a-white-background.jpg",
+        "adress": " Block B Basundhara, Dhaka",
+        "caterory": "Punching , Kicking, Throwing , Chokeholds ",
+        "duration": " 4 month",
+        "cost": 10000,
+        "details": "A modified form of the Japanese martial art adapted by the Gracie family in 1925, the Brazilian version sees participants attempting to gain superior positioning over their opponent through use of holds, chokes, joint manipulations and locking of joints."
+    },
+    {
+        "key": 1007,
+        "name": "Kids Martial arts",
+        "img": "https://pngimage.net/wp-content/uploads/2018/06/karate-kids-png-5.png",
+        "adress": " Block B Basundhara, Dhaka",
+        "duration": "3 month",
+        "cost": 4000,
+        "details": "Martial Arts can be a great activity to get your children into for a whole range of reasons that have nothing at all to do with fighting. You can choose from a range of styles including Karate, Taekwondo, Brazilian Jujitsu and Krav Maga too."
+    },
+    {
+        "key": 1008,
+        "name": "Adult Martial arts",
+        "img": "https://www.canamkarate.com/uploads/2/4/3/6/24366280/adult-martial-arts-2_orig.jpg",
+        "adress": " Block B Basundhara, Dhaka",
+        "duration": " 4 month",
+        "cost": 5000,
+        "details": "The national sport and cultural martial art of Bangladesh, and was developed as a form of close-combat. It is a full-contact sport that requires fighters to defeat their opponents by utilising kicking, cinching and hitting techniques as well as an element of grappling, where striking your opponent requires strong physical and mental discipline."
+    }
+]
