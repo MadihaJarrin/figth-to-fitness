@@ -17,3 +17,11 @@
     background-color: lightsalmon;
     color: white;
 }
+.pricing-foot{
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-bottom: 2px;
+   padding: 50px;
+   border: 2px solid rgb(52, 153, 194);
+   box-shadow: 5px 5px 40px rgb(250, 165, 207);
+}

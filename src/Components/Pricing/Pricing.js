@@ -6,9 +6,9 @@ const Pricing = () => {
     return (
         <div className="pricing-container">
 
-            <p style={{ marginTop: "20px", padding: "20px" }}>One of the most common questions people ask when calling a martial arts school is:</p>
+            <p style={{ padding: "30px" }}>One of the most common questions people ask when calling a martial arts school is:</p>
             <h1 style={{ color: "red", backgroundColor: "lightyellow", padding: "20px", borderRadius: "100px" }}>“HOW MUCH DO MARTIAL ARTS CLASSES COST?”</h1>
-            <h6 style={{ width: "80%", marginLeft: "60px", padding: "20px" }}>Any time one is considering a new venture, the cost is certainly an important consideration.  But, it is important to recognize that martial arts training is more than a commodity to be selected based on price alone. </h6>
+            <h6 style={{ width: "80%", marginLeft: "150px", padding: "20px" }}>Any time one is considering a new venture, the cost is certainly an important consideration.  But, it is important to recognize that martial arts training is more than a commodity to be selected based on price alone. </h6>
 
 
             <div className="pricing-card">
@@ -41,7 +41,7 @@ const Pricing = () => {
                     </Card>
                 </div>
             </div>
-            <div style={{ width: '80%', margin: "30px" }}>
+            <div className="pricing-foot">
                 <div  >
                     <h2>1.The Professional School</h2>
                     <p>prices for martial arts classes at these schools in the range of $150 to $500 per month.</p>

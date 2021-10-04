@@ -1,26 +1,23 @@
 .details-container{
     padding:10px;
     /* background-color: lightsalmon; */
-    
 }
 .card1{
     
     border: 3px inset lightpink;
     background-color: white;
-    /* color: whitesmoke; */
-    border-radius: 5px;
-    /* margin-top: 5px; */
+    border-radius: 10px;
+box-shadow: 2px 2px 10px rgb(197, 25, 197);
     display: grid;
     grid-template-columns: repeat(2, 2fr)
-    
  }
  .card img{
      height: 500px ;
      width:600px;
-   
      padding: 10px;
-     margin-bottom: 10px;
+     /* border-radius: 50%; */
+     /* margin-bottom: 10px; */
  }
- /* .body{
-   margin-top:100px ;
- } */
+ .body{
+   margin-top:50px ;
+ }

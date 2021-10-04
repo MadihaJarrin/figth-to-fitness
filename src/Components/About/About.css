@@ -101,3 +101,9 @@
     text-decoration: none;
     margin-left: 30px;
 }
+.content h2{
+	color: rgb(252, 173, 26);
+}
+.content p, small{
+	color: white;
+}

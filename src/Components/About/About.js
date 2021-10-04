@@ -8,7 +8,7 @@ import './About.css'
 
 const About = () => {
     return (
-        <div className="container" style={{ backgroundColor: "lightsalmon" }} >
+        <div className="container" >
             <div className="box">
                 <div className="imgBx">
                     <img src={institute} alt="" />
@@ -17,7 +17,7 @@ const About = () => {
                     <h2>Fight to Fitness</h2>
                     <small>This is a Japanese martial art whose physical aspects seek the development of defensive body movements.Though its mental and moral aspects target the overall improvement.</small>
                     <p><Link to="/service">
-                        Click me
+                        Contact with us
                     </Link></p>
                 </div>
             </div>
@@ -29,7 +29,7 @@ const About = () => {
                     <h2>Fight to Fitness</h2>
                     <small>This is a Japanese martial art whose physical aspects seek the development of defensive body movements.Though its mental and moral aspects target the overall improvement.</small>
                     <p><Link to="/service">
-                        Click me
+                        Contact with us
                     </Link></p>
                 </div>
             </div>
@@ -41,19 +41,19 @@ const About = () => {
                     <h2>Fight to Fitness</h2>
                     <small>This is a Japanese martial art whose physical aspects seek the development of defensive body movements.Though its mental and moral aspects target the overall improvement.</small>
                     <p><Link to="/service">
-                        Click me
+                        Contact with us
                     </Link></p>
                 </div>
             </div>
             <div>
             </div>
-            <div className="contact">
+            {/* <div className="contact">
                 <h3>Contact</h3>
                 <p>
                     <a href="#">website</a>
                     <a href="#">facebook</a>
                 </p>
-            </div>
+            </div> */}
         </div>
     );
 };
