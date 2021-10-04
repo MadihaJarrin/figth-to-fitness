@@ -12,9 +12,10 @@
     padding: 50px;
 }
 .service h1{
-    background-color: rgb(194, 57, 166);
+    /* background-color: rgb(194, 57, 166); */
+    text-shadow: 5px 5px 10px darkorchid;
     border-radius: 100px;
-    color: rgb(238, 231, 231);
+    color: white;
     padding: 5px;
     
 }
